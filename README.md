@@ -110,10 +110,14 @@ Agregar aquí capturas de:
 - <img width="1585" height="843" alt="image" src="https://github.com/user-attachments/assets/9631f658-aaab-40f6-bb19-453175aba5c9" />
 
 - Módulo de productos.
-- <img width="1584" height="848" alt="image" src="https://github.com/user-attachments/assets/9d265510-e819-4479-b761-730344bcfa1a" />
+<img width="1584" height="848" alt="image" src="https://github.com/user-attachments/assets/9d265510-e819-4479-b761-730344bcfa1a" />
+<img width="1522" height="776" alt="image" src="https://github.com/user-attachments/assets/dc9b2720-d34b-4542-bfc6-c53ad1c98304" />
+<img width="497" height="618" alt="image" src="https://github.com/user-attachments/assets/ed474fea-530c-4a0f-920f-70d82e260fc6" />
+<img width="469" height="574" alt="image" src="https://github.com/user-attachments/assets/bb296906-9109-45c2-81a7-1ebe89b319a5" />
 
 - Módulo de ventas.
 - <img width="1873" height="971" alt="image" src="https://github.com/user-attachments/assets/98dab89b-d942-435a-bd9b-6b1130b09830" />
+<img width="461" height="441" alt="image" src="https://github.com/user-attachments/assets/0ef37720-1c3e-4da0-840b-2314c0b97e13" />
 
 
 ## Autor
