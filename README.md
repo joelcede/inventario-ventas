@@ -116,34 +116,6 @@ Agregar aquí capturas de:
 - <img width="1873" height="971" alt="image" src="https://github.com/user-attachments/assets/98dab89b-d942-435a-bd9b-6b1130b09830" />
 
 
-## Sugerencia de commits para GitHub
-
-La actividad pide mínimo 7 commits reales. Puedes usar esta secuencia:
-
-```bash
-git init
-git add README.md
-git commit -m "Agregar README inicial"
-
-git add database/inventario.sql
-git commit -m "Crear script de base de datos"
-
-git add config/database.php
-git commit -m "Configurar conexión PDO"
-
-git add models/
-git commit -m "Agregar modelos de productos y ventas"
-
-git add controllers/
-git commit -m "Agregar controladores principales"
-
-git add services/
-git commit -m "Agregar servicio para registrar ventas"
-
-git add public/
-git commit -m "Crear interfaz web del sistema"
-```
-
 ## Autor
 
 Proyecto académico de inventario y ventas simple.
