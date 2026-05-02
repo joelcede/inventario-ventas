@@ -107,8 +107,14 @@ Este sistema no incluye login, por lo que no requiere usuarios de prueba.
 Agregar aquí capturas de:
 
 - Pantalla principal.
+- <img width="1585" height="843" alt="image" src="https://github.com/user-attachments/assets/9631f658-aaab-40f6-bb19-453175aba5c9" />
+
 - Módulo de productos.
+- <img width="1584" height="848" alt="image" src="https://github.com/user-attachments/assets/9d265510-e819-4479-b761-730344bcfa1a" />
+
 - Módulo de ventas.
+- <img width="1873" height="971" alt="image" src="https://github.com/user-attachments/assets/98dab89b-d942-435a-bd9b-6b1130b09830" />
+
 
 ## Sugerencia de commits para GitHub
 
